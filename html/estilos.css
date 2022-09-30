@@ -1,0 +1,35 @@
+.logotipo{
+    padding: 10px 0;
+}
+
+.iconos{
+    width: 30px;
+    margin: 10px 5px;
+}
+
+.container{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;  
+}
+
+.banner-vidio{
+    background-image: url(https://i.ytimg.com/vi/ONj9cvHCado/maxresdefault.jpg);
+    padding: 200px 0;
+    position:relative;
+    text-align: center;
+}
+
+.banner-vidio img{
+    width: 150px;
+    height: 100px;
+
+}
+
+.espacio{
+    padding: 100px 0;
+}
+
+.dapagina{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
